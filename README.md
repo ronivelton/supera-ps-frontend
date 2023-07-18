@@ -10,4 +10,4 @@ e para executar execute
 ```bash
 npm run dev
 ```
-É executar o backend da aplicação em java na porta :8080 para essa aplicação consumir a api e funcionar corretamente
+É preciso executar o backend da aplicação em java na porta :8080 para essa aplicação consumir a api e funcionar corretamente
